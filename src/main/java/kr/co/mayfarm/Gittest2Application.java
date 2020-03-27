@@ -13,7 +13,7 @@ public class Gittest2Application implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("Hello");
+		System.out.println("Hello, World");
 	}
 
 }
